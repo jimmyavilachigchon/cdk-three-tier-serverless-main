@@ -1,0 +1,2 @@
+https://www.freecodecamp.org/news/aws-cdk-v2-three-tier-serverless-application/
+https://github.com/elthrasher/cdk-three-tier-serverless
